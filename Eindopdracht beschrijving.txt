@@ -1,0 +1,17 @@
+Javascript image slider
+
+Voor de eindopdracht wil ik een image slider maken.
+
+Het is mogelijk om:
+
+•	door verschillende afbeeldingen te bladeren met behulp van pijltjes. 
+
+•	De image slider bevat een groot deel van de pagina.
+
+•	De eindopdracht maak ik custom.
+
+•	De afbeeldingen komen vanuit de image folder en worden ingelezen in JavaScript.
+
+
+
+
